@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Regata Rockets",
+      "price": 329.59,
+      "amount": 2,
+
+      "img": "https://static.lojanba.com/produtos/regata-nba-swingman-houston-rockets-n-13-james-harden-jersey-nike-masculina/16/HZM-1801-016/HZM-1801-016_zoom2.jpg?ts=1574880889&ims=326x"
+    },
+    {
+      "id": 2,
+      "title": "Regata Lakers",
+      "price": 129.59,
+      "amount": 5,
+
+      "img": "https://static.lojanba.com/produtos/regata-nba-swingman-los-angeles-lakers-n-23-lebron-james-nike-jersey-masculina/30/HZM-0630-030/HZM-0630-030_zoom2.jpg?ts=1596649116&ims=326x"
+    },
+    {
+      "id": 3,
+      "title": "Regata All-Star",
+      "price": 156.9,
+      "amount": 3,
+
+      "img": "https://static.lojanba.com/produtos/regata-swingman-nba-all-star-2020-james-n-23-jersey-nike-masculina/16/HZM-3091-016/HZM-3091-016_zoom2.jpg?ts=1582245857&ims=326x"
+    },
+    {
+      "id": 4,
+      "title": "Regata Broklyn",
+      "price": 200.99,
+      "amount": 2,
+
+      "img": "https://static.lojanba.com/produtos/regata-swingman-nba-brooklyn-nets-n-7-durant-jersey-road-nike-masculina/26/HZM-3122-026/HZM-3122-026_zoom2.jpg?ts=1588949934&ims=326x"
+    },
+    {
+      "id": 5,
+      "title": "Regata Dallas",
+      "price": 179.6,
+      "amount": 1,
+
+      "img": "https://static.lojanba.com/produtos/regata-nba-swingman-dallas-mavericks-n-77-luka-doncic-jersey-nike-masculina/10/HZM-1819-310/HZM-1819-310_zoom2.jpg?ts=1570818882&ims=326x"
+    },
+    {
+      "id": 6,
+      "title": "Regata Clippers",
+      "price": 220.9,
+      "amount": 5,
+
+      "img": "https://static.lojanba.com/produtos/regata-swingman-nike-nba-los-angeles-clippers-george-paul-masculina/08/HZM-3129-008/HZM-3129-008_zoom2.jpg?ts=1576858150&ims=326x"
+    },
+    {
+      "id": 7,
+      "title": "Regata Philadelphia",
+      "price": 79.9,
+      "amount": 1,
+
+      "img": "https://static.lojanba.com/produtos/regata-swingman-nba-philadelphia-76ers-simmons-n-25-nike-jersey-masculina/10/HZM-3055-810/HZM-3055-810_zoom2.jpg?ts=1580917317&ims=326x"
+    },
+    {
+      "id": 8,
+      "title": "Regata Golden State",
+      "price": 99.9,
+      "amount": 3,
+
+      "img": "https://static.lojanba.com/produtos/regata-nba-swingman-golden-state-warriors-n-30-stephen-curry-nike-jersey-ro-masculina/76/HZM-2138-076/HZM-2138-076_zoom2.jpg?ts=1568723700&ims=326x"
+    },
+    {
+      "id": 9,
+      "title": "Regata Celtics",
+      "price": 159.6,
+      "amount": 3,
+
+      "img": "https://static.lojanba.com/produtos/regata-swingman-mitchell-&-ness-nba-boston-celtics-masculina/14/C61-1819-114/C61-1819-114_zoom2.jpg?ts=1579525522&ims=326x"
+    },
+    {
+      "id": 10,
+      "title": "Regata NY ",
+      "price": 110.0,
+      "amount": 5,
+
+      "img": "https://static.lojanba.com/produtos/regata-nba-swingman-new-york-knicks-n-6-kristaps-porzingis-jersey-nike-feminina/08/D12-8876-008/D12-8876-008_zoom2.jpg?ts=1596649107&ims=326x"
+    }
+  ]
+}
