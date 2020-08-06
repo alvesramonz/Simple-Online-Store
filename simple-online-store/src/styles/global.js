@@ -15,6 +15,10 @@ export default createGlobalStyle`
     -webkit-font-smoothing: antialiased;
   }
 
+  li {
+    list-style: none;
+  }
+
   body, input, button {
     font: 14px Roboto, sans-serif;
   }
