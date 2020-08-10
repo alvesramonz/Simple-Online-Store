@@ -5,3 +5,5 @@ const api = axios.create({
 });
 
 export default api;
+
+// npx json-server --watch -p 3333 server.json
